@@ -20,3 +20,7 @@ export ETHERSCAN_TOKEN=(variable name must be this, get it from ethescan-API key
 # Usage:
 
 run `brownie.exe run .\scripts\deploy.py --network sepolia`
+
+# TODO:
+
+Currently VRFv1 is deprecated and doesn't support sepolia, need to use VRFv2

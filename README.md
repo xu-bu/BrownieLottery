@@ -7,7 +7,3 @@
 #Deploy:
 
 run `brownie.exe networks delete mainnet-fork` to delete built-in mainnet-fork of brownie, and then add mainnet-fork from alchemy
-
-
-#Test:
-1. `main-fork`
